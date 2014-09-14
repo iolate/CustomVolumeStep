@@ -1,0 +1,9 @@
+Package: kr.iolate.customvolumestep
+Name: CustomVolumeStep
+Depends: mobilesubstrate, preferenceloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: custom stepping amount for volume keys
+Maintainer: iolate <iolate@me.com>
+Author: iolate <iolate@me.com>
+Section: Tweaks
