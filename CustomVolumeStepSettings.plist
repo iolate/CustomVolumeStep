@@ -37,7 +37,7 @@ CustomVolumeStep © 2014 iolate (@iolate_e)
 			<key>default</key>
 			<string>16</string>
 			<key>label</key>
-			<string>Volume Step Amount</string>
+			<string>Volume Step</string>
 			<key>PostNotification</key>
 			<string>customvolumestep/reload</string>
 			<key>validTitles</key>
